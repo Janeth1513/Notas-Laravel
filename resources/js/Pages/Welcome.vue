@@ -33,7 +33,7 @@
                 &nbsp;
 
                 <Link v-if="canRegister" :href="route('register')" class="underline text-gray-900 dark:text-white">
-                    Sing up
+                    Sign on
                 </Link>
             </template>
                     </div>
