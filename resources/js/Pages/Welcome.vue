@@ -13,10 +13,10 @@
                             
                             <div class="ml-4 text-lg leading-7 font-semibold, text-gray-900 dark:text-white">Sistema Notas</div>
                         </div>
-
+                             Aplicacion para realizar notas y su organizacion
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                Este programa te ayudara a organizar pequenas notas o tareas, estas las puedes clasificar por niveles, Asegurate de tener la mejor experiencia creando notas
+                                
                             </div>
                         </div>
                     </div>
