@@ -11,7 +11,7 @@
                     <div class="p-6">
                         <div class="flex items-center">
                             
-                            <div class="ml-4 text-lg leading-7 font-semibold, text-gray-900 dark:text-white">Sistema Notas</div>
+                            <div class="ml-4 text-lg leading-7 font-semibold, text-gray-900 dark:text-white">Sistema de Notas</div>
                         </div>
                              Aplicacion para realizar notas y su organizacion
                         <div class="ml-12">
